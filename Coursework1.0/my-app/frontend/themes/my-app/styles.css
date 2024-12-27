@@ -1,0 +1,10 @@
+@import url('./main-layout.css');
+@import url('./views/image-gallery-view.css');
+@import url('./views/manage-film-view.css');
+@import url('./views/manage-city-view.css');
+@import url('./views/manage-cinema-view.css');
+@import url('./views/manage-screen-view.css');
+@import url('./views/manage-seat-view.css');
+@import url('./views/manage-showing-view.css');
+@import url('./views/manage-booking-view.css');
+@import url('./views/booking-view.css');

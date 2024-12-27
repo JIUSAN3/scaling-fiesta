@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.vaadin:vaadin-app-layout-flow:24.3.12">
+    <CLASSES>
+      <root url="jar://D:/maven/apache-maven-3.9.2/conf/com/vaadin/vaadin-app-layout-flow/24.3.12/vaadin-app-layout-flow-24.3.12.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/maven/apache-maven-3.9.2/conf/com/vaadin/vaadin-app-layout-flow/24.3.12/vaadin-app-layout-flow-24.3.12-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/maven/apache-maven-3.9.2/conf/com/vaadin/vaadin-app-layout-flow/24.3.12/vaadin-app-layout-flow-24.3.12-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
